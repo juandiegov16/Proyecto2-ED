@@ -1,0 +1,15 @@
+JUGADOR 1					JUGADOR 2
+Izquierda		W			Izquierda		FLECHA IZQUIERDA
+Derecha			A			Derecha			FLECHA DERECHA
+Arriba			S			Arriba			FLECHA ARRIBA
+Abajo			D			Abajo			FLECHA ABAJO
+
+Patada débil		F (3)			Patada débil		NUMPAD 4
+Patada media		G (2)			Patada media		NUMPAD 5
+Patada fuerte		H (R1)			Patada fuerte 		NUMPAD 6
+Puño débil		C (4)	 		Puño débil		NUMPAD 1
+Puño medio		V (1)			Puño medio 		NUMPAD 2
+Puño fuerte		B (L1)			Puño fuerte 		NUMPAD 3
+
+Hadouken		T			Hadouken		NUMPAD 8
+
